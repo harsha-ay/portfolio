@@ -17,7 +17,7 @@ export const Projects = () => {
     },
     {
       title: "Gaming Website",
-      description: "Developed a visually captivating website inspired by Zentry, featuring scroll-triggered animations, geometric transitions, and engaging video storytelling. Learn how to deliver a luxurious, modern feel, focusing on engaging UI/UX and smooth responsiveness.",
+      description: "Build a visually captivating website inspired by Zentry, and engaging video storytelling, focusing on engaging UI/UX and smooth responsiveness",
       imgUrl: projImg2,
     },
     
