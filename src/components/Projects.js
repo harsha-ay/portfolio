@@ -12,13 +12,15 @@ export const Projects = () => {
   const projects = [
     {
       title: "Personal Portfolio",
-      description: "A portfolio is a collection of work or projects that showcase my skills, experience, and accomplishments. It serves as a personal marketing tool, allowing potential employers or clients to see my capabilities and style in action.",
+      description: "A portfolio is a collection of projects that showcase my skills, experience. It allows clients to see my capabilities and style in action.",
       imgUrl: projImg1,
+      liveDemoUrl: "https://portfolio-plum-ten-36.vercel.app/",
     },
     {
       title: "Gaming Website",
-      description: "Build a visually captivating website inspired by Zentry, and engaging video storytelling, focusing on engaging UI/UX and smooth responsiveness",
+      description: "Build a visual website inspired by Zentry, and engaging video storytelling, focusing on engaging UI/UX and smooth responsiveness.",
       imgUrl: projImg2,
+      liveDemoUrl: "https://gaming-fawn.vercel.app/",
     },
     
   ];
