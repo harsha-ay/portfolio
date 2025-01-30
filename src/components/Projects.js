@@ -15,6 +15,11 @@ export const Projects = () => {
       description: "A portfolio is a collection of work or projects that showcase my skills, experience, and accomplishments. It serves as a personal marketing tool, allowing potential employers or clients to see my capabilities and style in action.",
       imgUrl: projImg1,
     },
+    {
+      title: "Gaming Website",
+      description: "Developed a visually captivating website inspired by Zentry, featuring scroll-triggered animations, geometric transitions, and engaging video storytelling. Learn how to deliver a luxurious, modern feel, focusing on engaging UI/UX and smooth responsiveness.",
+      imgUrl: projImg2,
+    },
     
   ];
 
