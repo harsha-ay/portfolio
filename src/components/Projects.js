@@ -22,6 +22,12 @@ export const Projects = () => {
       imgUrl: projImg2,
       liveDemoUrl: "https://gaming-fawn.vercel.app/",
     },
+    {
+      title: "X game",
+      description: "XGame is an online gaming platform where players can access a diverse collection of games, from action-packed adventures.",
+      imgUrl: projImg3,
+      liveDemoUrl: "https://github.com/harsha-ay/Xgame",
+    },
     
   ];
 
